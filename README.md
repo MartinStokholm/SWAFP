@@ -1,0 +1,2 @@
+# SWAFP
+For exercises
