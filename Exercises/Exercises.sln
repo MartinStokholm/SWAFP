@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Lesson1", "Lesson1\Lesson1.fsproj", "{DB563EF6-7F3C-43D5-B13C-38BBED43D4F1}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TheConsoleApp", "TheConsoleApp\TheConsoleApp.fsproj", "{B5603FF1-C34F-4A57-BB98-991056D58FDC}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Lesson3", "Lesson3\Lesson3.fsproj", "{E7F39DE0-82E6-4F4D-B751-96FA6C67E542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB563EF6-7F3C-43D5-B13C-38BBED43D4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB563EF6-7F3C-43D5-B13C-38BBED43D4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB563EF6-7F3C-43D5-B13C-38BBED43D4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB563EF6-7F3C-43D5-B13C-38BBED43D4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5603FF1-C34F-4A57-BB98-991056D58FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5603FF1-C34F-4A57-BB98-991056D58FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5603FF1-C34F-4A57-BB98-991056D58FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5603FF1-C34F-4A57-BB98-991056D58FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F39DE0-82E6-4F4D-B751-96FA6C67E542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F39DE0-82E6-4F4D-B751-96FA6C67E542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F39DE0-82E6-4F4D-B751-96FA6C67E542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F39DE0-82E6-4F4D-B751-96FA6C67E542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

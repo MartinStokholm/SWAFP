@@ -1,0 +1,11 @@
+C:\Users\msldk\sovsen\SWAFP\Exercises\Lesson3\bin\Debug\net7.0\Lesson3.deps.json
+C:\Users\msldk\sovsen\SWAFP\Exercises\Lesson3\bin\Debug\net7.0\Lesson3.dll
+C:\Users\msldk\sovsen\SWAFP\Exercises\Lesson3\bin\Debug\net7.0\Lesson3.pdb
+C:\Users\msldk\sovsen\SWAFP\Exercises\Lesson3\bin\Debug\net7.0\Lesson3.xml
+C:\Users\msldk\sovsen\SWAFP\Exercises\Lesson3\obj\Debug\net7.0\Lesson3.fsproj.AssemblyReference.cache
+C:\Users\msldk\sovsen\SWAFP\Exercises\Lesson3\obj\Debug\net7.0\Lesson3.AssemblyInfoInputs.cache
+C:\Users\msldk\sovsen\SWAFP\Exercises\Lesson3\obj\Debug\net7.0\Lesson3.AssemblyInfo.fs
+C:\Users\msldk\sovsen\SWAFP\Exercises\Lesson3\obj\Debug\net7.0\Lesson3.fsproj.CoreCompileInputs.cache
+C:\Users\msldk\sovsen\SWAFP\Exercises\Lesson3\obj\Debug\net7.0\Lesson3.dll
+C:\Users\msldk\sovsen\SWAFP\Exercises\Lesson3\obj\Debug\net7.0\Lesson3.xml
+C:\Users\msldk\sovsen\SWAFP\Exercises\Lesson3\obj\Debug\net7.0\Lesson3.pdb

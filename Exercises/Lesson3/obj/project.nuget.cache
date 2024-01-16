@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4egk8HGAN2uSgI2Ria86yMB7i9iy1DsRbnKWHFBb7Qxrhdf5IDsAgCw+guYgBp+w6sH2ISLaBO7OJnX6IJaXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msldk\\sovsen\\SWAFP\\Exercises\\Lesson3\\Lesson3.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msldk\\.nuget\\packages\\fsharp.core\\6.0.5-beta.22369.1\\fsharp.core.6.0.5-beta.22369.1.nupkg.sha512"
+  ],
+  "logs": []
+}
